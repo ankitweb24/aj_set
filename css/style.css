@@ -1,0 +1,10 @@
+.navbar-brand {
+    animation: linear infinite;
+    animation-direction: alternate;
+}
+
+@media(max-width:768px) {
+    .navbar {
+        text-align: center;
+    }
+}
